@@ -2,6 +2,7 @@ package me.kin.vivace;
 
 import me.kin.vivace.battle.BattleManager;
 import me.kin.vivace.interfaces.Manager;
+import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
 import java.util.ArrayList;
