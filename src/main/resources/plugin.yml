@@ -1,0 +1,15 @@
+name: BattlePlugin
+version: '${project.version}'
+main: me.kin.vivace.Main
+authors: [ vivace ]
+description: battle plugin _ 1.12.2 _ kin
+commands:
+  배틀:
+    usage: /<commands>
+  자기장:
+    usage: /<commands>
+  가방제한:
+    usage: /<commands>
+  상자스폰:
+    usage: /<commands>
+
